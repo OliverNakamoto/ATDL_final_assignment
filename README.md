@@ -1,2 +1,2 @@
-# ATDL_A3
-Our Notebooks for the ATDL_A3 training. If you have any questions feel free to email me.
+Final Project in Advanced Topics in Deep Learning. This repository contains all files used for the experiments. The final report (limited to 6 pages), is also in the repo.
+
